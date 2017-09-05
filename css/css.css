@@ -1,0 +1,41 @@
+body{font-size:12px;font-family:"微软雅黑";}
+body,dl,dd,h1,h2,h3,h4,h5,h6,p{margin:0;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;font-size:12px; font-family:"微软雅黑";}
+img{vertical-align:bottom;border:none;}
+ul,ol{margin:0;padding:0;list-style:none;}
+em,i{font-style:normal;}
+strong,b,th{font-weight:normal;}
+a{text-decoration:none; color:#333;}
+input{padding:0;margin:0;outline:none;}
+textarea{ resize:none; overflow:auto;}
+
+/*清浮动*/
+.clearfix{*zoom:1;}
+.clearfix:after{content:"";clear:both;display:block;}
+
+
+.box{height: 32px;width: 100%;text-align: center;color: #fff;font:bold 20px/32px "微软雅黑";background:#00b600;}
+
+.swiper-container{width: 100%;height: 15%;}
+.swiper-slide{width: 100%;height: 100%;position: relative;}
+.swiper-slide img{width: 100%;height: 100%;}
+.weui-flex img{width: 95%;}
+.weui-flex p{text-align: center;font-size:12px;}
+.weui-cells{background: none;margin-top:0;}
+.weui-cells:before{border:none}
+.weui-cells:after{border:none}
+.box1{color:#000;width: 100%;display: block;text-align: center;}
+.hid{display: none;}
+.active{display: block;}
+
+
+
+
+
+
+
+
+
+
+
+
